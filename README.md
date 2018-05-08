@@ -1,5 +1,5 @@
 # Muse_LSL_Environments
-
+#####test2
 This is a set of script to interface with Alex B's Muse-LSL code https://github.com/alexandrebarachant/muse-lsl
 Anaconda will create two environments, one to record and view data (lsl) and one to run psychopy experiments (psychopy)
 Then the scripts below can be used to run the experiments, or see the instrcutions in the baseline folder to run a baseline task
