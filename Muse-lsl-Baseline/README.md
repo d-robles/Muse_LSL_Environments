@@ -38,3 +38,7 @@ A plot will appear showing the voltages being measured by the Muse. Adjust the d
 /Users/mathlab/Desktop/Baseline/Data/Muse
 
 Close all open terminal windows. Remove the Muse once the experiment is finished, clean the device and the participant again, and thank the participant for their time.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DANIEL ADDED THIS LINE TO TEST%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
